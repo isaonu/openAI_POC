@@ -26,8 +26,8 @@ Execute the file main.py.
 When running the main.py file, the user will be requested to input the path of the audio files and also the keyword which
 relates to the topic the user is interested to find in the audio files.
 
-Here in the project we have a folder called "speeches" which contains some audio files. These audios are small, if you plan to process
-longer audios, you may have to split them,
+Here in the project we have a folder called "speeches", so we can use this folder to in our execution, "./speeches",
+which contains some audio files. These audios are small, if you plan to process longer audios, you may have to split them.
 
 After the corresponding processing is done, the user may get a response with the audio file name which contains
 information related to the topic, if there is no audio file found with the given keyword, the system will ask the user if he/she wants to
